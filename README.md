@@ -1,4 +1,6 @@
 # automationDecbatch
 
-This is test repo
+This is test repo for dec batch
+Created for Test automation project
+
 
